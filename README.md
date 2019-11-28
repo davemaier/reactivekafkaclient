@@ -4,4 +4,4 @@ Demo client application based on angular to be used with reactivekafkawebsocket 
 
 ## How to run?
 
-Clone this repository and run `npm install`. Make sure you have angular cli installed. Run `ng serve`
+Clone this repository and run `npm install` in ws-client folder. Make sure you have angular cli installed. Run `ng serve`
