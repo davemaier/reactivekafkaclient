@@ -22,8 +22,6 @@ import { KafkaState } from './state/kafka.state';
     NgxsWebsocketPluginModule.forRoot({
       url: 'ws://localhost:8080/websocket'
     })
-    
-    
   ],
   providers: [],
   bootstrap: [AppComponent]
